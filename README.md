@@ -29,8 +29,6 @@ My expertise includes:
 <img src="https://cdn-icons-png.flaticon.com/128/2103/2103665.png" alt="R-programming" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" alt="QGIS" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="ArcGIS" width="40" height="40"/>
-</a> </p>
 
 <p align="left">
   <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">
@@ -39,9 +37,7 @@ My expertise includes:
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" height="40"/>
-  </a>
+ 
   <a href="https://jupyter.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
   </a>
