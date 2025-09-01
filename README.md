@@ -32,6 +32,21 @@ My expertise includes:
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="ArcGIS" width="40" height="40"/>
 </a> </p>
 
+<p align="left">
+  <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/ArcGIS_logo_%28cropped%29.png" alt="ArcGIS" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python" width="80" height="40"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter" width="40" height="40"/>
+  </a>
+</p>
+
 <br>
 ***
 <br>
