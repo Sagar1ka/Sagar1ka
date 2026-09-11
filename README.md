@@ -6,7 +6,7 @@
 [![banner](https://media.licdn.com/dms/image/v2/D5616AQGiGBj10PK10Q/profile-displaybackgroundimage-shrink_350_1400/B56ZdVsc5UG0AY-/0/1749489407391?e=1759363200&v=beta&t=XTbPNgskPBYx-T2IHxvgNE_WdSAkKrMD6HylJnDVUEw)](https://Sagar1ka.github.io/)
 
 👋 **About Me**: 
-I am a Remote Sensing Professional & Data Scientist with over a decade of hands-on experience spanning research, climate-tech startups, academia, externally funded projects (as Project Investigator), and the insurance sector. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling.
+A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk. I have built solutions combining catastrophe science, risk analytics, exposure management for financial decision-making. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling.
 My expertise includes:
 • 🌍 Climate & Disaster Risk – risk modeling, early warning systems, and emerging risk identification
 • 🌱 Nature-Based Solutions (NBS) – biodiversity, resilience, and sustainability strategies
