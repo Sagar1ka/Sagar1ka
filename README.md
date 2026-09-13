@@ -6,7 +6,8 @@
 [![banner](https://media.licdn.com/dms/image/v2/D5616AQGiGBj10PK10Q/profile-displaybackgroundimage-shrink_350_1400/B56ZdVsc5UG0AY-/0/1749489407391?e=1759363200&v=beta&t=XTbPNgskPBYx-T2IHxvgNE_WdSAkKrMD6HylJnDVUEw)](https://Sagar1ka.github.io/)
 
 👋 **About Me**: 
-A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk. I have built solutions combining catastrophe science, risk analytics, and exposure management for financial decision-making. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling.
+A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk. I have built solutions combining catastrophe science, risk analytics, and exposure management for financial decision-making. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling. <br>
+
 My expertise includes: <br>
 • 🌍 Climate & Disaster Risk – risk modeling, early warning systems, and emerging risk identification <br>
 • 📊 Insurance & Finance – Catastrophe Modeling, RMS Risk Modelling, Loss modeling,  parametric insurance <br>
@@ -15,7 +16,6 @@ My expertise includes: <br>
 🛰️ Remote Sensing Data I Work With <br/>
 • Satellite Data: Landsat, MODIS, AVHRR, VIIRS, SRTM, GRACE, Sentinel-1, Sentinel-2, Sentinel-5 <br/>
 • Applications: Hydrology, agriculture, biodiversity, and climate risk modeling.
-
 
 🛠️ Tools & Technologies <br/>
 • **Programming & Analysis**: Python, R, MATLAB <br/>
