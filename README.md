@@ -6,10 +6,11 @@
 [![banner](https://media.licdn.com/dms/image/v2/D5616AQGiGBj10PK10Q/profile-displaybackgroundimage-shrink_350_1400/B56ZdVsc5UG0AY-/0/1749489407391?e=1759363200&v=beta&t=XTbPNgskPBYx-T2IHxvgNE_WdSAkKrMD6HylJnDVUEw)](https://Sagar1ka.github.io/)
 
 👋 **About Me**: 
-A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk. I have built solutions combining catastrophe science, risk analytics, and exposure management for financial decision-making. I bring combined experience across the re/insurance industry and academia/research from client requirements and model development to validation, evaluation of external catastrophe models, developing internal cat. solutions, shaping company’s view of catastrophe risk and stakeholder communication. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling.  RMS- Risk Modeler, AIR Touchstone (working knowledge), Exposure IQ, Swiss Re’s Cat modeling tools (MultiSNAP, GRP, Harmony).<br> 
+A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk.  I bring combined experience across the re/insurance industry and academia/research from client requirements and model development to validation, evaluation of external catastrophe models, developing internal cat. solutions, shaping company’s view of catastrophe risk and stakeholder communication. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling. <br> 
+Insurance tools: RMS- Risk Modeler, AIR Touchstone (working knowledge), Exposure IQ, Swiss Re’s Cat modeling tools (MultiSNAP, GRP, Harmony).<br> 
 
 My expertise includes: <br>
-• 📊 Insurance & Finance – Catastrophe Modeling, exposure management, portfolio rollups, aggregates, Loss modeling,  parametric insurance <br>
+• 📊 Insurance & Finance – Catastrophe Modeling analyst, exposure management, portfolio rollups, aggregates, Loss modeling,  parametric insurance, stakeholder communication <br>
 • 🛰️ Geospatial Data & Remote Sensing – Earth observation, geoinformatics, and applied AI for climate <br>
 • 🌍 Climate & Disaster Risk – risk modeling, early warning systems, and emerging risk identification <br>
 
