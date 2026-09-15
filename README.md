@@ -8,7 +8,7 @@
 👋 **About Me**: 
 A catastrophe modeling specialist who connects climate science, statistical modelling, and underwriting decisions to build a defensible View of Risk.  I bring combined experience across the re/insurance industry and academia/research from client requirements and model development to validation, evaluation of external catastrophe models, developing internal cat. solutions, shaping company’s view of catastrophe risk and stakeholder communication. My background as a geoscientist has allowed me to work at the intersection of hydrology, geospatial intelligence, remote sensing, and climate applications, with a strong focus on climate risk and catastrophic risk modeling. <br> 
 
-**Insurance tools**: RMS- Risk Modeler, AIR Touchstone (working knowledge), Exposure IQ, PowerBI, SQL, Swiss Re’s proprietary Cat modeling tools (MultiSNAP, GRP, Harmony).<br> 
+**Insurance tools**: RMS- Risk Modeler, AIR Touchstone (working knowledge), Exposure IQ, PowerBI, SQL, Swiss Re’s proprietary Cat modeling/rating/pricing tools (MultiSNAP, GRP, Harmony).<br> 
 
 **My expertise includes**: <br>
 • 📊 Insurance & Finance – Catastrophe Modeling analyst, exposure management, portfolio rollups, aggregates, Loss modeling,  parametric insurance, stakeholder communication <br>
